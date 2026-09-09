@@ -1,0 +1,26 @@
+{
+    "layout": {
+        "type": "layout",
+        "pages": ["page-main"],
+        "page-main": {
+            "type": "page",
+            "title": "Grok Weekly",
+            "sections": ["section-refresh"]
+        },
+        "section-refresh": {
+            "type": "section",
+            "title": "Updates",
+            "keys": ["refresh-minutes"]
+        }
+    },
+
+    "refresh-minutes": {
+        "type": "spinbutton",
+        "default": 5,
+        "min": 1,
+        "max": 60,
+        "step": 1,
+        "units": "minutes",
+        "description": "Refresh interval"
+    }
+}

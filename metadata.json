@@ -1,0 +1,12 @@
+{
+    "uuid": "grok-weekly@greyster1",
+    "name": "Grok Weekly",
+    "description": "Tiny SuperGrok weekly used % and reset time.",
+    "version": "1.0.0",
+    "prevent-decorations": true,
+    "max-instances": "1",
+    "author": "greyster1",
+    "license": "GPL-3.0-or-later",
+    "website": "https://github.com/greyster1/GrokUsage",
+    "last-edited": 1788979800
+}

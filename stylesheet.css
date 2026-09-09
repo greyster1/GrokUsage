@@ -1,0 +1,53 @@
+.desklet {
+    padding: 0;
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+}
+
+.gw-desklet {
+    background-color: rgba(30, 30, 46, 0.94);
+    border: 1px solid rgba(139, 92, 246, 0.38);
+    border-radius: 10px;
+    padding: 6px 10px 5px 10px;
+    min-width: 72px;
+}
+
+.gw-caption {
+    color: #808090;
+    font-size: 7pt;
+    font-weight: bold;
+    letter-spacing: 0.8px;
+    text-align: center;
+}
+
+.gw-pct {
+    font-size: 18pt;
+    font-weight: bold;
+    padding: 0;
+    text-align: center;
+}
+
+.gw-ok {
+    color: #8b5cf6;
+}
+
+.gw-warn {
+    color: #f59e0b;
+}
+
+.gw-danger {
+    color: #ef4444;
+}
+
+.gw-reset {
+    color: #a0a0b0;
+    font-size: 8pt;
+    padding-top: 1px;
+    text-align: center;
+}
+
+.gw-error {
+    color: #ef4444;
+    font-size: 9pt;
+}
