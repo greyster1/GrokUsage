@@ -1,0 +1,9 @@
+{
+    "uuid": "grok-usage@greyster1",
+    "name": "Grok Usage",
+    "description": "Circular SuperGrok weekly usage on the Cinnamon panel.",
+    "version": "1.0.0",
+    "max-instances": "1",
+    "author": "greyster1",
+    "license": "GPL-3.0-or-later"
+}
